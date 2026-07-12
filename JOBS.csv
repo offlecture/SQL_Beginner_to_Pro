@@ -1,0 +1,21 @@
+job_id,job_title,min_salary
+1,Senior Engineer,75000
+2,Engineer,60000
+3,Sales Rep,50000
+4,Support Agent,45000
+5,Engineering Manager,110000
+6,Product Manager,95000
+7,Data Scientist,85000
+8,Data Analyst,60000
+9,UX Designer,65000
+10,UI Designer,60000
+11,QA Engineer,55000
+12,DevOps Engineer,80000
+13,HR Specialist,48000
+14,Recruiter,46000
+15,Accountant,52000
+16,Finance Manager,100000
+17,Legal Counsel,90000
+18,Operations Analyst,54000
+19,Marketing Specialist,50000
+20,IT Administrator,58000
